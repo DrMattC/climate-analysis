@@ -8,5 +8,5 @@ To install a copy of this code
 
 ```git pull ```
 
-** In development **
+**In development**
 
